@@ -1,0 +1,17 @@
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.csproj.ResolveComReference.cache
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.Form1.resources
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.Form2.resources
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.Form3.resources
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.Form4.resources
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.exe
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.pdb
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\Pen\bin\Debug\Pen.exe.manifest
+D:\Bejjo\Tugas\Project\Pen\bin\Debug\Pen.application
+D:\Bejjo\Tugas\Project\Pen\bin\Debug\Pen.exe
+D:\Bejjo\Tugas\Project\Pen\bin\Debug\Pen.pdb
+D:\Bejjo\Tugas\Project\Pen\bin\Debug\MySql.Data.dll
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.exe.manifest
+D:\Bejjo\Tugas\Project\Pen\obj\x86\Debug\Pen.application
